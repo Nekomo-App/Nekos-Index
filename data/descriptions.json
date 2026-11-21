@@ -252,12 +252,7 @@
     ]
   },
   {
-    "url": "https://github.com/Cloudstream-App/Cloudstream",
-    "title": "Cloudstream",
-    "description": "Cloudstream is an Extensions Streaming Apps app or resource."
-  },
-  {
-    "url": "https://github.com/recloudstream/cloudstream-extensions",
+    "url": "https://github.com/recloudstream/extensions",
     "title": "Cloudstream Extensions",
     "description": "Cloudstream Extensions is a Repo Streaming Apps app or resource."
   },
@@ -334,21 +329,6 @@
     ]
   },
   {
-    "url": "https://github.com/you-apps/YouPlay",
-    "title": "YouPlay",
-    "description": "YouPlay is a YouTube Streaming Apps app or resource."
-  },
-  {
-    "url": "https://github.com/you-apps/SkyTube",
-    "title": "SkyTube",
-    "description": "SkyTube is a YouTube Streaming Apps app or resource."
-  },
-  {
-    "url": "https://github.com/you-apps/YouPlayer",
-    "title": "YouPlayer",
-    "description": "YouPlayer is a Player Streaming Apps app or resource."
-  },
-  {
     "url": "https://github.com/mpv-player/mpv",
     "title": "mpv",
     "description": "🎥 Command line media player",
@@ -361,43 +341,13 @@
     "website": "http://www.videolan.org/vlc"
   },
   {
-    "url": "https://github.com/SpyCatcherOfficial/StreamHub",
-    "title": "StreamHub",
-    "description": "StreamHub is an Extensions Streaming Apps app or resource."
-  },
-  {
-    "url": "https://github.com/ReDactedX/Xtream-Player",
-    "title": "Xtream Player",
-    "description": "Xtream Player is an IPTV Streaming Apps app or resource."
-  },
-  {
-    "url": "https://github.com/ReDactedX/Xtream-Downloader",
-    "title": "Xtream Downloader",
-    "description": "Xtream Downloader is an IPTV Streaming Apps app or resource."
-  },
-  {
-    "url": "https://github.com/ReDactedX/Xtream-Extractor",
-    "title": "Xtream Extractor",
-    "description": "Xtream Extractor is an IPTV Streaming Apps app or resource."
-  },
-  {
-    "url": "https://github.com/ReDactedX/Xtream-Converter",
-    "title": "Xtream Converter",
-    "description": "Xtream Converter is an IPTV Streaming Apps app or resource."
-  },
-  {
-    "url": "https://github.com/ReDactedX/Xtream-Manager",
-    "title": "Xtream Manager",
-    "description": "Xtream Manager is an IPTV Streaming Apps app or resource."
-  },
-  {
     "url": "https://github.com/Syncplay/syncplay",
     "title": "Syncplay",
     "description": "Client/server to synchronize media playback on mpv/VLC/MPC-HC/MPC-BE on many computers",
     "website": "http://syncplay.pl/"
   },
   {
-    "url": "https://github.com/ThaUnknown/miru",
+    "url": "https://miru.watch",
     "title": "Miru",
     "description": "Miru is an Anime Streaming Apps app or resource."
   },
@@ -526,89 +476,49 @@
     ]
   },
   {
-    "url": "https://github.com/alexfauz/AOT-Video",
-    "title": "AOT Video",
-    "description": "AOT Video is an Anime Anime & Manga Apps app or resource."
-  },
-  {
-    "url": "https://github.com/alexfauz/AOT-Manga",
-    "title": "AOT Manga",
-    "description": "AOT Manga is a Manga Anime & Manga Apps app or resource."
-  },
-  {
-    "url": "https://github.com/alexfauz/AOT-Novel",
-    "title": "AOT Novel",
-    "description": "AOT Novel is a Novels Anime & Manga Apps app or resource."
-  },
-  {
-    "url": "https://github.com/ReDactedX/Yokai",
-    "title": "Yokai",
-    "description": "Yokai is a Manga Anime & Manga Apps app or resource."
-  },
-  {
-    "url": "https://github.com/ReDactedX/Shiru",
-    "title": "Shiru",
-    "description": "Shiru is a Manga Anime & Manga Apps app or resource."
-  },
-  {
-    "url": "https://github.com/ReDactedX/Mihon",
+    "url": "https://github.com/mihonapp/mihon",
     "title": "Mihon",
     "description": "Mihon is a Manga Anime & Manga Apps app or resource."
   },
   {
-    "url": "https://github.com/ReDactedX/Tachidesk",
+    "url": "https://github.com/Suwayomi/Suwayomi-Server",
     "title": "Tachidesk",
     "description": "Tachidesk is a Server Anime & Manga Apps app or resource."
   },
   {
-    "url": "https://github.com/ReDactedX/Houdoku",
+    "url": "https://github.com/xgi/houdoku",
     "title": "Houdoku",
     "description": "Houdoku is a Manga Anime & Manga Apps app or resource."
   },
   {
-    "url": "https://github.com/ReDactedX/FMD2",
-    "title": "FMD2",
-    "description": "FMD2 is a Manga Anime & Manga Apps app or resource."
-  },
-  {
-    "url": "https://github.com/ReDactedX/Hakuneko",
+    "url": "https://github.com/manga-download/haruneko",
     "title": "Hakuneko",
     "description": "Hakuneko is an Anime Anime & Manga Apps app or resource."
   },
   {
-    "url": "https://github.com/ReDactedX/QuickNovel",
+    "url": "https://github.com/LagradOst/QuickNovel",
     "title": "QuickNovel",
     "description": "QuickNovel is a Novels Anime & Manga Apps app or resource."
   },
   {
-    "url": "https://github.com/ReDactedX/Tsundoku",
-    "title": "Tsundoku",
-    "description": "Tsundoku is a Novels Anime & Manga Apps app or resource."
-  },
-  {
-    "url": "https://github.com/ReDactedX/LnCrawler",
+    "url": "https://github.com/lncrawl/lightnovel-crawler",
     "title": "LnCrawler",
     "description": "LnCrawler is a Novels Anime & Manga Apps app or resource."
   },
   {
-    "url": "https://github.com/ReDactedX/Seanime",
+    "url": "https://github.com/5rahim/seanime",
     "title": "Seanime",
     "description": "Seanime is an Anime Anime & Manga Apps app or resource."
   },
   {
-    "url": "https://github.com/ReDactedX/AnymeX",
+    "url": "https://github.com/RyanYuuki/AnymeX",
     "title": "AnymeX",
     "description": "AnymeX is an Anime Anime & Manga Apps app or resource."
   },
   {
-    "url": "https://github.com/ReDactedX/Mangayomi",
+    "url": "https://github.com/kodjodevf/mangayomi",
     "title": "Mangayomi",
     "description": "Mangayomi is a Manga Anime & Manga Apps app or resource."
-  },
-  {
-    "url": "https://github.com/ReDactedX/Manatan",
-    "title": "Manatan",
-    "description": "Manatan is a Manga Anime & Manga Apps app or resource."
   },
   {
     "url": "https://github.com/KotatsuApp/Kotatsu",
@@ -761,11 +671,6 @@
     "description": "Plex Free is a Free Streaming Services app or resource."
   },
   {
-    "url": "https://www.crackle.com",
-    "title": "Crackle",
-    "description": "Crackle is a Free Streaming Services app or resource."
-  },
-  {
     "url": "https://www.popcornflix.com",
     "title": "Popcornflix",
     "description": "Popcornflix is a Free Streaming Services app or resource."
@@ -806,12 +711,12 @@
     "description": "MPC-HC is a Player Media Players & Converters app or resource."
   },
   {
-    "url": "https://www.mpc-be.com",
+    "url": "https://mpc-be.sourceforge.io",
     "title": "MPC-BE",
     "description": "MPC-BE is a Player Media Players & Converters app or resource."
   },
   {
-    "url": "https://www.potplayer.daum.net",
+    "url": "https://potplayer.tv",
     "title": "PotPlayer",
     "description": "PotPlayer is a Player Media Players & Converters app or resource."
   },
@@ -1038,11 +943,6 @@
     "description": "NZBGet is a Downloader Usenet & NZB Tools app or resource."
   },
   {
-    "url": "https://www.sickchill.com",
-    "title": "SickChill",
-    "description": "SickChill is a Manager Usenet & NZB Tools app or resource."
-  },
-  {
     "url": "https://sonarr.tv",
     "title": "Sonarr",
     "description": "Sonarr is a TV Usenet & NZB Tools app or resource."
@@ -1098,34 +998,14 @@
     "description": "MangaDex is an Official Manga & Novel Reading app or resource."
   },
   {
-    "url": "https://comicinfo.org",
-    "title": "ComicInfo",
-    "description": "ComicInfo is a Comics Anime & Manga Databases app or resource."
-  },
-  {
     "url": "https://novelupdates.com",
     "title": "NovelUpdates",
     "description": "NovelUpdates is a Novels Database Sites app or resource."
   },
   {
-    "url": "https://comick.app",
-    "title": "ComicK",
-    "description": "ComicK is a Comics Database Sites app or resource."
-  },
-  {
-    "url": "https://mangasee123.com",
-    "title": "MangaSee",
-    "description": "MangaSee is a Simple Manga & Novel Reading app or resource."
-  },
-  {
     "url": "https://mangakakalot.com",
     "title": "MangaKakalot",
     "description": "MangaKakalot is a Popular Manga & Novel Reading app or resource."
-  },
-  {
-    "url": "https://mangarock.com",
-    "title": "MangaRock",
-    "description": "MangaRock is a Popular Manga & Novel Reading app or resource."
   },
   {
     "url": "https://lightnovelworld.org",
@@ -1304,7 +1184,7 @@
     "description": "Kid3 is an Audio Audio Tagging Tools app or resource."
   },
   {
-    "url": "https://easytag.github.io",
+    "url": "https://wiki.gnome.org/Apps/EasyTAG",
     "title": "EasyTag",
     "description": "EasyTag is an Audio Audio Tagging Tools app or resource."
   },
@@ -1485,11 +1365,6 @@
     "description": "Anoboye is an Index Anime Streaming Sites app or resource."
   },
   {
-    "url": "https://kagane.to/",
-    "title": "Kagane",
-    "description": "Kagane is a Popular Manga Reading Sites app or resource."
-  },
-  {
     "url": "https://weebcentral.com/",
     "title": "Weeb Central",
     "description": "Weeb Central is a Fast Manga Reading Sites app or resource."
@@ -1573,11 +1448,6 @@
     "url": "https://novelfire.net",
     "title": "NovelFire",
     "description": "NovelFire is a Fast Novel Reading Sites app or resource."
-  },
-  {
-    "url": "https://annas-archive.org",
-    "title": "Anna's Archive",
-    "description": "Anna's Archive is a Comprehensive Novel Reading Sites app or resource."
   },
   {
     "url": "https://everythingmoe.com/s/jnovelclub",
@@ -1690,29 +1560,9 @@
     "description": "Armaell's Library is an Index Novel Reading Sites app or resource."
   },
   {
-    "url": "https://kisskh.com",
-    "title": "Kisskh",
-    "description": "Kisskh is a Popular Asian Drama Streaming Sites app or resource."
-  },
-  {
-    "url": "https://goplay.com",
-    "title": "GoPlay",
-    "description": "GoPlay is an Official Asian Drama Streaming Sites app or resource."
-  },
-  {
     "url": "https://asianc.tv",
     "title": "Asianc TV",
     "description": "Asianc TV is an Asian Asian Drama Streaming Sites app or resource."
-  },
-  {
-    "url": "https://kdramaweb.com",
-    "title": "Kdramaweb",
-    "description": "Kdramaweb is a Korean Asian Drama Streaming Sites app or resource."
-  },
-  {
-    "url": "https://dramanicee.cl",
-    "title": "Dramanicee.cl",
-    "description": "Dramanicee.cl is a Classic Asian Drama Streaming Sites app or resource."
   },
   {
     "url": "https://lovo.tv",
@@ -1728,11 +1578,6 @@
     "url": "https://zokaj.com",
     "title": "Zokaj",
     "description": "Zokaj is an Index Asian Drama Streaming Sites app or resource."
-  },
-  {
-    "url": "https://toku555.com",
-    "title": "Toku555",
-    "description": "Toku555 is an Index Asian Drama Streaming Sites app or resource."
   },
   {
     "url": "https://everythingmoe.com/s/kisskhweb",
@@ -1870,11 +1715,6 @@
     "description": "AnimeTosho is an Anime Torrent & Download Sites app or resource."
   },
   {
-    "url": "https://tsukihime.moe",
-    "title": "TsukiHime",
-    "description": "TsukiHime is an Anime Torrent & Download Sites app or resource."
-  },
-  {
     "url": "https://subsplease.org",
     "title": "SubsPlease",
     "description": "SubsPlease is an Anime Torrent & Download Sites app or resource."
@@ -1893,11 +1733,6 @@
     "url": "https://releases.moe",
     "title": "SeaDex",
     "description": "SeaDex is a Database Torrent & Download Sites app or resource."
-  },
-  {
-    "url": "https://nekobt.com",
-    "title": "nekoBT",
-    "description": "nekoBT is an Anime Torrent & Download Sites app or resource."
   },
   {
     "url": "https://anirena.com",
@@ -2035,7 +1870,7 @@
     "description": "ExifCleaner is a Metadata Privacy & Security Tools app or resource."
   },
   {
-    "url": "https://github.com/Karmesinrotz/MAL-sync",
+    "url": "https://github.com/MALSync/MALSync",
     "title": "MAL-sync",
     "description": "MAL-sync is a Browser Tracking & Sync Tools app or resource."
   },
@@ -2060,7 +1895,7 @@
     "description": "due.moe is a Tool Tracking & Sync Tools app or resource."
   },
   {
-    "url": "https://github.com/taiga-app/taiga",
+    "url": "https://github.com/erengy/taiga",
     "title": "Taiga",
     "description": "Taiga is a Desktop Tracking & Sync Tools app or resource."
   },
@@ -2081,11 +1916,6 @@
     "description": "MangaBaka is a Manga Database Sites app or resource."
   },
   {
-    "url": "https://kuroiru.com",
-    "title": "Kuroiru",
-    "description": "Kuroiru is an Anime Database Sites app or resource."
-  },
-  {
     "url": "https://myfigurecollection.net",
     "title": "MyFigureCollection",
     "description": "MyFigureCollection is a Figures Database Sites app or resource."
@@ -2094,11 +1924,6 @@
     "url": "https://vndb.org",
     "title": "Visual Novel DB",
     "description": "Visual Novel DB is a VN Database Sites app or resource."
-  },
-  {
-    "url": "https://vnclub.net",
-    "title": "VN Club",
-    "description": "VN Club is a VN Database Sites app or resource."
   },
   {
     "url": "https://novilist.com",
@@ -2491,11 +2316,6 @@
     "description": "Pixiv is an Art Image & Art Resources app or resource."
   },
   {
-    "url": "https://artstreet.io",
-    "title": "ARTstreet",
-    "description": "ARTstreet is an Art Image & Art Resources app or resource."
-  },
-  {
     "url": "https://everythingmoe.com/s/gsbooru",
     "title": "Gsbooru",
     "description": "Gsbooru is an Images Image & Art Resources app or resource."
@@ -2516,7 +2336,7 @@
     "description": "Pawchive is an Images Image & Art Resources app or resource."
   },
   {
-    "url": "https://kemono.party",
+    "url": "https://kemono.cr",
     "title": "Kemono",
     "description": "Kemono is an Archive Image & Art Resources app or resource."
   },
@@ -2556,7 +2376,7 @@
     "description": "ASMR Archive is an Archive VTuber Tools app or resource."
   },
   {
-    "url": "https://prydwengg.com",
+    "url": "https://www.prydwen.gg",
     "title": "Prydwen.gg",
     "description": "Prydwen.gg is a Guides Gacha Tools app or resource."
   },
@@ -2907,17 +2727,12 @@
     ]
   },
   {
-    "url": "https://github.com/moneytoo/Just-Player",
-    "title": "Just Player",
-    "description": "Just Player is a Player  app for Android."
-  },
-  {
     "url": "https://github.com/mpv-android/mpv-android",
     "title": "mpv-android",
     "description": "mpv-android is a Player  app for Android."
   },
   {
-    "url": "https://github.com/AnilabX/NextPlayer",
+    "url": "https://github.com/anilbeesetti/nextplayer",
     "title": "Next Player",
     "description": "Next Player is a Player  app for Android."
   },
@@ -2930,18 +2745,6 @@
     "url": "https://github.com/MuntashirAkon/Metro",
     "title": "Metro",
     "description": "Metro is a Music  app for Android."
-  },
-  {
-    "url": "https://github.com/mihonapp/mihon",
-    "title": "Mihon",
-    "description": "Mihon is a Reader  app for Android.",
-    "socials": [
-      {
-        "url": "https://discord.gg/mihon",
-        "type": "discord",
-        "label": "Discord"
-      }
-    ]
   },
   {
     "url": "https://github.com/8bitPit/Niagara-Issues",
@@ -2993,14 +2796,9 @@
     ]
   },
   {
-    "url": "https://github.com/sdvcode/Seal",
+    "url": "https://github.com/junkfood02/Seal",
     "title": "Seal",
     "description": "Seal is a Downloader  app for Android."
-  },
-  {
-    "url": "https://github.com/alefvanoon/limbo",
-    "title": "Limbo PC Emulator",
-    "description": "Limbo PC Emulator is an Emulator  app for Android."
   },
   {
     "url": "https://f-droid.org/packages/net.typeblog.shelter/",
@@ -3018,7 +2816,7 @@
     "description": "Feeder is a RSS  app for Android."
   },
   {
-    "url": "https://github.com/Sangwan5688/BlackHole",
+    "url": "https://github.com/HemantKArya/BloomeeTunes",
     "title": "BlackHole",
     "description": "BlackHole is a Music  app for Android."
   },
@@ -3219,7 +3017,7 @@
     "description": "Client-side encryption for cloud storage that keeps files unreadable by the cloud provider."
   },
   {
-    "url": "https://github.com/simple-login/iOS",
+    "url": "https://github.com/simple-login/app",
     "title": "SimpleLogin",
     "description": "Generate unlimited email aliases to protect your real address and reduce spam."
   },
@@ -3335,11 +3133,6 @@
     "description": "The official iOS client for self-hosted file sync, notes, calendars, and groupware."
   },
   {
-    "url": "https://github.com/insidegui/CloudKicker",
-    "title": "CloudKicker",
-    "description": "A lightweight cloud storage browser and file manager for iOS."
-  },
-  {
     "url": "https://apps.apple.com/us/app/proton-calendar-secure/id6443491334",
     "title": "Proton Calendar",
     "description": "An encrypted calendar that keeps your event details private and supports sharing."
@@ -3436,7 +3229,7 @@
     ]
   },
   {
-    "url": "https://github.com/passepartoutvpn/passepartout-vpn",
+    "url": "https://github.com/partout-io/passepartout",
     "title": "Passepartout",
     "description": "A user-friendly, open-source VPN client supporting multiple protocols."
   },
@@ -3444,11 +3237,6 @@
     "url": "https://github.com/WireGuard/wireguard-apple",
     "title": "WireGuard",
     "description": "The official fast, modern, and secure VPN client for iOS."
-  },
-  {
-    "url": "https://github.com/nextdns/nextdns-app",
-    "title": "NextDNS",
-    "description": "A private DNS client that blocks ads, trackers, and malware network-wide."
   },
   {
     "url": "https://adguard-dns.io",
@@ -3516,12 +3304,7 @@
     "website": "https://chat.petals.dev"
   },
   {
-    "url": "https://github.com/libre-chat/libre-chat",
-    "title": "LibreChat",
-    "description": "LibreChat is a Chat AI & Chatbots app or resource."
-  },
-  {
-    "url": "https://github.com/Enzime4/Open-WebUI",
+    "url": "https://github.com/open-webui/open-webui",
     "title": "Open WebUI",
     "description": "Open WebUI is a Chat AI & Chatbots app or resource."
   },
@@ -3596,7 +3379,7 @@
     "description": "Focus on prompting and generating"
   },
   {
-    "url": "https://github.com/AshleyMLTravis/DiffusionBee",
+    "url": "https://diffusionbee.com",
     "title": "DiffusionBee",
     "description": "DiffusionBee is a Mac AI & Chatbots app or resource."
   },
@@ -3604,11 +3387,6 @@
     "url": "https://huggingface.co",
     "title": "Hugging Face",
     "description": "Hugging Face is a Models AI & Chatbots app or resource."
-  },
-  {
-    "url": "https://github.com/premAI-io/prem-app",
-    "title": "Prem",
-    "description": "Prem is a LLM Hub AI & Chatbots app or resource."
   },
   {
     "url": "https://github.com/chatchat-space/Langchain-Chatchat",
@@ -3641,7 +3419,7 @@
     ]
   },
   {
-    "url": "https://github.com/lmstudio-ai/lmstudio-v0",
+    "url": "https://lmstudio.ai",
     "title": "LM Studio",
     "description": "LM Studio is a Local LLM AI & Chatbots app or resource."
   },
@@ -3917,11 +3695,6 @@
     "description": "OpenShot is a Video Utilities & Browsers app or resource."
   },
   {
-    "url": "https://natrongit.github.io",
-    "title": "Natron",
-    "description": "Natron is a Compositing Utilities & Browsers app or resource."
-  },
-  {
     "url": "https://github.com/yt-dlp/yt-dlp",
     "title": "yt-dlp",
     "description": "A feature-rich command-line audio/video downloader",
@@ -4077,7 +3850,7 @@
     "description": "FlightGear is a Sim Gaming app or resource."
   },
   {
-    "url": "https://github.com/yuzu-emu/yuzu",
+    "url": "https://eden-emu.dev",
     "title": "yuzu (Forks)",
     "description": "yuzu (Forks) is an Emulator Gaming app or resource."
   },
@@ -4292,7 +4065,7 @@
     "description": "WinWorld is an Abandonware Archives & Mirrors app or resource."
   },
   {
-    "url": "https://github.com/rebelonion/Dantotsu",
+    "url": "https://git.rebelonion.dev/rebelonion/Dantotsu",
     "title": "Dantotsu",
     "description": "Dantotsu is an open source Android app for anime and manga tracking and streaming through extensions."
   },
@@ -4376,7 +4149,7 @@
     "description": "Guide for modding the PS Vita with HENkaku and Enso."
   },
   {
-    "url": "https://psp.hacks.guide",
+    "url": "https://consolemods.org",
     "title": "PSP Hacks Guide",
     "description": "Guide for installing custom firmware on the PlayStation Portable."
   },
@@ -4386,7 +4159,7 @@
     "description": "Community wiki of modding guides covering many classic consoles."
   },
   {
-    "url": "https://letterbomb.please.hackmii.com",
+    "url": "https://please.hackmii.com",
     "title": "LetterBomb",
     "description": "Wii exploit that installs the Homebrew Channel via the message board."
   },
@@ -4413,7 +4186,7 @@
     "description": "Bootloader and payload manager for the Nintendo Switch."
   },
   {
-    "url": "https://github.com/TheOfficialFloW/HENkaku",
+    "url": "https://henkaku.xyz",
     "title": "HENkaku",
     "description": "Homebrew enabler exploit for the PS Vita."
   },
@@ -4440,7 +4213,7 @@
     "description": "Feature-rich plugin and backup manager for PS3 with CFW or HEN."
   },
   {
-    "url": "https://github.com/ps2homebrew/FreeMcBoot",
+    "url": "https://github.com/israpps/FreeMcBoot-Installer",
     "title": "FreeMCBoot",
     "description": "Exploit installed to a PS2 memory card to run homebrew."
   },
@@ -4543,7 +4316,7 @@
     ]
   },
   {
-    "url": "https://www.fortheusers.org",
+    "url": "https://github.com/fortheusers/hb-appstore",
     "title": "Homebrew App Store",
     "description": "Homebrew App Store for Wii U, Switch, and 3DS homebrew."
   },
@@ -5176,7 +4949,7 @@
     "description": "The central hub for ROM hacks, translations, and utilities."
   },
   {
-    "url": "https://datacrystal.romhacking.net",
+    "url": "https://datacrystal.tcrf.net",
     "title": "Data Crystal",
     "description": "Wiki documenting ROM structures for hacking."
   },
@@ -5341,10 +5114,6 @@
     "description": "Subreddit for ROM hacking discussion."
   },
   {
-    "url": "https://github.com/feross/fresh-tapes",
-    "title": "Feishin"
-  },
-  {
     "url": "https://github.com/ViewTube/ViewTube",
     "title": "ViewTube",
     "description": "▶️ ViewTube: The open source, privacy-conscious way to enjoy your favorite YouTube content. Docs: https://viewtube.wiki",
@@ -5445,11 +5214,6 @@
     "description": "Plex's free ad-supported movie and TV streaming tier, no subscription required."
   },
   {
-    "url": "https://potplayer.tv",
-    "title": "PotPlayer",
-    "description": "A feature-rich, free media player for Windows with extensive codec and subtitle support."
-  },
-  {
     "url": "https://anansi-project.github.io/docs/category/comicinfo",
     "title": "ComicInfo",
     "description": "Documentation for the ComicInfo.xml metadata standard used by comic/manga reader apps."
@@ -5525,16 +5289,6 @@
     "description": "The official streaming platform for Belgian broadcaster VTM/DPG Media."
   },
   {
-    "url": "https://dramacool.com.pa/",
-    "title": "DramaCool",
-    "description": "A free site for streaming Asian dramas and movies with subtitles."
-  },
-  {
-    "url": "https://viewasian.co/",
-    "title": "Viewasian",
-    "description": "A free Asian drama streaming index."
-  },
-  {
     "url": "https://1337x.to",
     "title": "1337x",
     "description": "A long-running general-purpose torrent index covering movies, TV, games, and more."
@@ -5543,11 +5297,6 @@
     "url": "https://thepiratebay.org",
     "title": "The Pirate Bay",
     "description": "One of the oldest and most well-known BitTorrent indexes."
-  },
-  {
-    "url": "https://torrentgalaxy.to",
-    "title": "TorrentGalaxy",
-    "description": "A torrent index and community that emerged from the RARBG/KAT era."
   },
   {
     "url": "https://rutracker.org",
@@ -5660,11 +5409,6 @@
     "description": "A free movie and TV streaming site."
   },
   {
-    "url": "https://fmovies.to",
-    "title": "Fmovies",
-    "description": "A free movie and TV streaming site."
-  },
-  {
     "url": "https://sflix.to",
     "title": "SFlix",
     "description": "A free movie and TV streaming site."
@@ -5675,11 +5419,6 @@
     "description": "A free movie and TV streaming site."
   },
   {
-    "url": "https://solarmovie.pe",
-    "title": "SolarMovie",
-    "description": "A free movie streaming site."
-  },
-  {
     "url": "https://putlocker.vip",
     "title": "Putlocker",
     "description": "A long-running brand of free movie/TV streaming mirrors."
@@ -5687,11 +5426,6 @@
   {
     "url": "https://gomovies.sx",
     "title": "GoMovies",
-    "description": "A free movie and TV streaming site."
-  },
-  {
-    "url": "https://bflix.gg",
-    "title": "Bflix",
     "description": "A free movie and TV streaming site."
   },
   {
@@ -5708,11 +5442,6 @@
     "url": "https://nicotine-plus.org",
     "title": "Nicotine+ (Soulseek)",
     "description": "An open-source Soulseek P2P music-sharing client."
-  },
-  {
-    "url": "https://kemono.cr",
-    "title": "Kemono",
-    "description": "An archiver that mirrors paid creator content from Patreon, Fanbox, and similar platforms."
   },
   {
     "url": "https://prydwen.gg",
@@ -5945,11 +5674,6 @@
     "description": "A privacy-focused YouTube client for Android built on the Piped backend."
   },
   {
-    "url": "https://skytube-app.com",
-    "title": "SkyTube",
-    "description": "An open-source, ad-free YouTube client for Android."
-  },
-  {
     "url": "https://freetubeapp.io",
     "title": "FreeTube",
     "description": "A privacy-focused desktop YouTube client with no ads or tracking."
@@ -6165,11 +5889,6 @@
     "description": "An open-source KeePass-compatible password manager for iOS and macOS."
   },
   {
-    "url": "https://lmstudio.ai",
-    "title": "LM Studio",
-    "description": "A desktop app for discovering, downloading, and running local LLMs with a chat UI."
-  },
-  {
     "url": "https://comfyui.org",
     "title": "ComfyUI",
     "description": "A node-based graphical interface for building and running Stable Diffusion image generation workflows."
@@ -6255,11 +5974,6 @@
     "description": "The Arch Linux wiki's reference page for gaming on Linux."
   },
   {
-    "url": "https://datacrystal.tcrf.net",
-    "title": "Data Crystal",
-    "description": "A wiki documenting reverse-engineered internal game data for ROM hacking."
-  },
-  {
     "url": "https://theindex.moe",
     "title": "theindex.moe",
     "description": "A comparison index of anime/manga streaming sites, apps, and VPN services."
@@ -6341,12 +6055,6 @@
     ]
   },
   {
-    "url": "https://github.com/xgi/houdoku",
-    "title": "Houdoku",
-    "description": "A free, open-source manga reader and library manager for the desktop.",
-    "website": "https://houdoku.org"
-  },
-  {
     "url": "https://github.com/dazedcat19/FMD2",
     "title": "FMD2",
     "description": "Free Manga Downloader 2, a desktop app for downloading manga from hundreds of sites.",
@@ -6372,82 +6080,12 @@
     "website": "https://hakuneko.download"
   },
   {
-    "url": "https://github.com/LagradOst/QuickNovel",
-    "title": "QuickNovel",
-    "description": "An Android app for downloading and reading light/web novels.",
-    "socials": [
-      {
-        "url": "https://discord.gg/5Hus6fM",
-        "type": "discord",
-        "label": "Discord"
-      }
-    ]
-  },
-  {
     "url": "https://github.com/tylergibbs2/Tsundoku",
     "title": "Tsundoku",
     "description": "A self-hosted tool that automatically downloads, renames, and organizes airing anime from RSS feeds.",
     "socials": [
       {
         "url": "https://discord.gg/thxN858gXm",
-        "type": "discord",
-        "label": "Discord"
-      }
-    ]
-  },
-  {
-    "url": "https://github.com/lncrawl/lightnovel-crawler",
-    "title": "LnCrawler",
-    "description": "A tool/library for downloading web novels from hundreds of sites and packaging them as e-books.",
-    "website": "https://lncrawl.bitanon.dev/"
-  },
-  {
-    "url": "https://github.com/5rahim/seanime",
-    "title": "Seanime",
-    "description": "A self-hosted media server with a web and desktop interface for anime and manga.",
-    "socials": [
-      {
-        "url": "https://discord.gg/Aruz7wdAaf",
-        "type": "discord",
-        "label": "Discord"
-      }
-    ],
-    "website": "https://seanime.app"
-  },
-  {
-    "url": "https://github.com/RyanYuuki/AnymeX",
-    "title": "AnymeX",
-    "description": "An open-source multi-service tracker for anime and manga across AniList, MAL, and Simkl.",
-    "socials": [
-      {
-        "url": "https://discord.gg/GKVvSyXDUD",
-        "type": "discord",
-        "label": "Discord"
-      },
-      {
-        "url": "https://t.me/AnymeX_Discussion",
-        "type": "telegram",
-        "label": "Telegram"
-      },
-      {
-        "url": "https://www.reddit.com/r/AnymeX_/",
-        "type": "reddit",
-        "label": "Reddit"
-      },
-      {
-        "url": "https://discord.gg/hDwQ3heJ8V",
-        "type": "discord",
-        "label": "Discord"
-      }
-    ]
-  },
-  {
-    "url": "https://github.com/kodjodevf/mangayomi",
-    "title": "Mangayomi",
-    "description": "A cross-platform Flutter app for reading manga/novels and watching anime.",
-    "socials": [
-      {
-        "url": "https://discord.com/invite/EjfBuYahsP",
         "type": "discord",
         "label": "Discord"
       }
@@ -6481,8 +6119,7 @@
         "type": "discord",
         "label": "Discord"
       }
-    ],
-    "website": "https://sickchill.github.io"
+    ]
   },
   {
     "url": "https://github.com/Prowlarr/Prowlarr",
@@ -6502,32 +6139,6 @@
       }
     ],
     "website": "https://komga.org"
-  },
-  {
-    "url": "https://github.com/MALSync/MALSync",
-    "title": "MAL-sync",
-    "description": "A browser extension/userscript that auto-tracks episode progress on MyAnimeList/AniList/Kitsu.",
-    "socials": [
-      {
-        "url": "https://discord.com/invite/cTH4yaw",
-        "type": "discord",
-        "label": "Discord"
-      }
-    ],
-    "website": "https://malsync.moe"
-  },
-  {
-    "url": "https://github.com/erengy/taiga",
-    "title": "Taiga",
-    "description": "A lightweight Windows desktop anime tracker that auto-detects what you're watching.",
-    "socials": [
-      {
-        "url": "https://discord.gg/yeGNktZ",
-        "type": "discord",
-        "label": "Discord"
-      }
-    ],
-    "website": "https://taiga.moe"
   },
   {
     "url": "https://github.com/Droid-ify/client",
@@ -6552,11 +6163,6 @@
       }
     ],
     "website": "https://play.google.com/store/apps/details?id=com.brouken.player"
-  },
-  {
-    "url": "https://github.com/anilbeesetti/nextplayer",
-    "title": "Next Player",
-    "description": "A native Android video player written in Kotlin with a clean, Material You interface."
   },
   {
     "url": "https://github.com/JunkFood02/Seal",
@@ -6670,19 +6276,6 @@
     "website": "https://librechat.ai/"
   },
   {
-    "url": "https://github.com/open-webui/open-webui",
-    "title": "Open WebUI",
-    "description": "A feature-rich, self-hosted web interface for running local LLMs via Ollama or OpenAI-compatible APIs.",
-    "socials": [
-      {
-        "url": "https://discord.gg/5rJgQTnV4s",
-        "type": "discord",
-        "label": "Discord"
-      }
-    ],
-    "website": "https://openwebui.com"
-  },
-  {
     "url": "https://github.com/divamgupta/diffusionbee-stable-diffusion-ui",
     "title": "DiffusionBee",
     "description": "The easiest way to run Stable Diffusion locally on a Mac, with a one-click installer.",
@@ -6756,7 +6349,7 @@
     ]
   },
   {
-    "url": "https://github.com/ReVanced/revanced-patches",
+    "url": "https://revanced.app",
     "title": "ReVanced Patches",
     "description": "The official collection of patches powering the ReVanced ecosystem."
   },
@@ -6795,19 +6388,9 @@
     "description": "The original homebrew enabler exploit chain for the PS Vita."
   },
   {
-    "url": "https://github.com/israpps/FreeMcBoot-Installer",
-    "title": "FreeMCBoot",
-    "description": "Custom installers for FreeMcBoot, a homebrew bootloader and launcher for the PS2.",
-    "website": "https://israpps.github.io/FreeMcBoot-Installer/"
-  },
-  {
     "url": "https://github.com/awesome-selfhosted",
     "title": "Awesome Selfhosted",
     "description": "The GitHub organization behind the massive community-maintained list of self-hostable software."
-  },
-  {
-    "url": "https://github.com/ibrahima313/awesome-piracy",
-    "title": "Awesome Piracy"
   },
   {
     "url": "https://github.com/sct/overseerr",
@@ -7011,24 +6594,6 @@
     "website": "https://apps.apple.com/us/app/simplelogin-anti-spam/id1494359858"
   },
   {
-    "url": "https://github.com/partout-io/passepartout",
-    "title": "Passepartout",
-    "description": "Your go-to app for VPN and privacy.",
-    "website": "https://partout.io/passepartout/",
-    "socials": [
-      {
-        "url": "https://twitter.com/keeshux",
-        "type": "x",
-        "label": "X"
-      },
-      {
-        "url": "https://www.reddit.com/r/passepartout",
-        "type": "reddit",
-        "label": "Reddit"
-      }
-    ]
-  },
-  {
     "url": "https://github.com/eden-emulator/mirror",
     "title": "Eden",
     "description": "Mirror of Eden. PRs welcome.",
@@ -7094,5 +6659,30 @@
         "label": "Telegram"
       }
     ]
+  },
+  {
+    "url": "https://sakusaku.to",
+    "title": "SakuSaku",
+    "description": "SakuSaku is a multilingual anime availability and source-navigation service. Browse anime by title, season and episode, see confirmed audio/subtitle availability, and get routed to external watch sources."
+  },
+  {
+    "url": "https://github.com/Orkas-AI/Orkas",
+    "title": "Orkas",
+    "description": "Orkas is an open-source, local-first desktop AI workforce. A Commander turns goals into executable plans and coordinates specialist agents for research, coding, data analysis and documents."
+  },
+  {
+    "url": "https://piccollages.com",
+    "title": "PicCollages",
+    "description": "PicCollages is a free browser photo collage maker with grid layouts, long-image stitching and free-layout composition. Local image processing, no signup required."
+  },
+  {
+    "url": "https://fomrix.com/stl-viewer",
+    "title": "Fomrix STL Viewer",
+    "description": "Fomrix STL Viewer opens STL meshes locally in the browser — no account needed. Rotation, zoom, surface/wireframe views, triangle counts and dimensions before slicing or editing."
+  },
+  {
+    "url": "https://bittool.com/signer/",
+    "title": "BitTool Signer",
+    "description": "BitTool Signer is MIT-licensed iOS software for reviewing and signing cryptocurrency requests on a dedicated offline iPhone via QR codes. Keys stay on-device; iOS 17+. Note: no independent third-party audit completed."
   }
 ]
