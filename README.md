@@ -4,7 +4,7 @@
 
 **Live sites:**
 
-- GitHub Pages: https://neko-s-index.github.io/Nekos-Index/
+- GitHub Pages: https://nekomo-app.github.io/Nekos-Index/
 - Netlify: https://n3k0s-index.netlify.app/
 
 ## About
