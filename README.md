@@ -93,3 +93,7 @@ Neko's Index does not host any files or content. All links point to third-party 
 ## Disclaimer
 
 This site is an informational index only. We do not host, distribute, or control any of the linked content. We do not endorse piracy, copyright infringement, or misuse of any listed tool. Users are responsible for ensuring their use of any linked service complies with the laws in their jurisdiction.
+
+---
+
+*Neko's Index is owned, operated, and maintained by [Nekosphere](https://github.com/Nekomo-App).*
