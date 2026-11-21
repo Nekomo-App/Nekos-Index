@@ -22,6 +22,15 @@ const CONCURRENCY = 8;
 const TIMEOUT_MS = 15_000;
 const UA = 'Mozilla/5.0 (compatible; NekosIndex-LinkCheck/1.0)';
 
+// Hosts skipped entirely — page infrastructure, not listed resources.
+const ASSET_HOSTS = new Set([
+  'fonts.googleapis.com',
+  'fonts.gstatic.com',
+  'cdn.jsdelivr.net',
+  'unpkg.com',
+  'cdnjs.cloudflare.com',
+]);
+
 function log(msg) {
   console.log(`[check-links] ${msg}`);
 }
@@ -50,6 +59,9 @@ function addLink(rawUrl, page) {
     return;
   }
   if (host === 'nekosindex.com' || host.endsWith('.nekosindex.com')) return;
+  // Font/CDN asset hosts referenced by <link>/<script> tags are not
+  // directory resources — they reliably 404 on HEAD or block probes.
+  if (ASSET_HOSTS.has(host)) return;
   const key = u.toString();
   if (!links.has(key)) links.set(key, page);
 }
