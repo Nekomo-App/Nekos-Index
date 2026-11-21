@@ -3032,7 +3032,7 @@
                     favorites.forEach((fav, index) => {
                         const li = document.createElement('li');
                         li.innerHTML = `
-                            <a href="${fav.url}" rel="noopener noreferrer" target="_blank">${fav.name}</a>
+                            <a href="${escapeHtml(fav.url)}" rel="noopener noreferrer" target="_blank">${escapeHtml(fav.name)}</a>
                             <button class="favorite-btn active" data-index="${index}">★</button>
                         `;
                         favoritesList.appendChild(li);
