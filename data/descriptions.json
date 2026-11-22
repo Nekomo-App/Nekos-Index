@@ -6684,5 +6684,80 @@
     "url": "https://bittool.com/signer/",
     "title": "BitTool Signer",
     "description": "BitTool Signer is MIT-licensed iOS software for reviewing and signing cryptocurrency requests on a dedicated offline iPhone via QR codes. Keys stay on-device; iOS 17+. Note: no independent third-party audit completed."
+  },
+  {
+    "url": "https://github.com/Nekomo-App/Zangetsu",
+    "title": "Zangetsu",
+    "description": "Zangetsu is a Open Source Streaming Apps (Multi-platform) app or resource."
+  },
+  {
+    "url": "https://github.com/Nekomo-App/Nekomo",
+    "title": "Nekomo",
+    "description": "Nekomo is a Open Source Anime & Manga Apps app or resource."
+  },
+  {
+    "url": "https://github.com/Nekomo-App/HimitsuX",
+    "title": "HimitsuX",
+    "description": "HimitsuX is a Open Source Anime & Manga Apps app or resource."
+  },
+  {
+    "url": "https://github.com/Nekomo-App/Nekozumi",
+    "title": "Nekozumi",
+    "description": "Nekozumi is a Open Source Anime & Manga Apps app or resource."
+  },
+  {
+    "url": "https://github.com/MarshMeadow/KamyTV",
+    "title": "KamyTV",
+    "description": "KamyTV is a Open Source Anime & Manga Apps app or resource."
+  },
+  {
+    "url": "https://github.com/MarshMeadow/kamyroll-plusplus",
+    "title": "Kamyroll++",
+    "description": "Kamyroll++ is a Open Source Anime & Manga Apps app or resource."
+  },
+  {
+    "url": "https://sozoapp.netlify.app",
+    "title": "Sozo",
+    "description": "Sozo is a Open Source Anime & Manga Apps app or resource."
+  },
+  {
+    "url": "https://github.com/MarshMeadow/Unofficial-Komori-Repo",
+    "title": "Komori (unofficial archive)",
+    "description": "Komori (unofficial archive) is a Open Source Anime & Manga Apps app or resource."
+  },
+  {
+    "url": "https://github.com/Nekomo-App/NekoShield",
+    "title": "NekoShield",
+    "description": "NekoShield is a Ad & Tracking Blockers app or resource."
+  },
+  {
+    "url": "https://github.com/Nekomo-App/NEX",
+    "title": "NEX (Extension Exchange)",
+    "description": "NEX (Extension Exchange) is a Open Source Android Apps app or resource."
+  },
+  {
+    "url": "https://github.com/MarshMeadow/NekoDim",
+    "title": "NekoDim",
+    "description": "NekoDim is a Open Source Android Apps app or resource."
+  },
+  {
+    "url": "https://github.com/Nekomo-App/dantotsu-updater",
+    "title": "Dantotsu Updater",
+    "description": "Dantotsu Updater is a Open Source Android Apps app or resource."
+  },
+  {
+    "url": "https://github.com/Nekomo-App/Neko-Run",
+    "title": "Neko-Run",
+    "description": "Neko-Run is a Open Source Gaming app or resource."
+  },
+  {
+    "url": "https://xspottv.netlify.app",
+    "title": "XSpotTV",
+    "description": "XSpotTV is a App Modding & Patched Clients app or resource."
+  },
+  {
+    "url": "https://github.com/MarshMeadow/RemoDB-mod",
+    "title": "RemoDB Mod",
+    "description": "RemoDB Mod is a App Modding & Patched Clients app or resource."
   }
 ]
