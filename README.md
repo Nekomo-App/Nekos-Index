@@ -11,6 +11,8 @@
 
 Neko's Index is a static resource directory inspired by community indexes like EverythingMoe and theindex.moe. It collects links to open-source apps, media tools, privacy software, VPN/DNS services, and other useful resources in one place.
 
+Maintained by [Nekosphere](https://github.com/Nekomo-App) — a somewhat private, members-first community: most projects are open, some are members-only.
+
 ## Pages
 
 - **index.html** — Privacy verification landing page
